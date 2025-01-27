@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/mdIfvzZNkBs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.youtube.com/watch?v=mdIfvzZNkBs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
